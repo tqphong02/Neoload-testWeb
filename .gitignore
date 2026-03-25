@@ -1,0 +1,10 @@
+# NeoLoad Ignore
+recorded-requests/
+recorded-responses/
+recorded-screenshots/
+results/
+reports/
+comparative-summary/
+*.log
+*.bak
+config.zip*
