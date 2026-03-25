@@ -1,0 +1,16 @@
+# Project description file
+
+project.name=Test_read
+project.version=8.9
+project.original.version=8.9
+product.name=NeoLoad
+product.original.name=NeoLoad
+ssh.trustUnknownHosts.MONITORS=false
+monitor.tls.insecure=false
+product.version=2023.4.1
+product.original.version=2023.4.1
+project.is-open-test-settings-after-upload=false
+project.id=1bc2fa81-67bc-4d87-b0c6-1a4fb619d65c
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=false
